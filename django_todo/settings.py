@@ -26,7 +26,7 @@ SECRET_KEY = '$sc)l*5h0s0_8u+bs8=sr@1h8x(p-d@3eo&ptic#5-*scet6m$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ci-fsf-django-todo-app.herokuapp.com']
 
 
 # Application definition
